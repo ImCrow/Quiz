@@ -1,0 +1,110 @@
+*{
+    box-sizing: border-box;
+}
+body{   
+    background-color:
+    black;
+}
+.caja1{
+    background-color: rgb(116, 24, 24);
+     height: 200px;
+}
+.caja2{
+     background-color:
+     rgb(28, 116, 116);
+     height: 200px;
+}
+.caja3{
+    background-color:
+     rgb(185, 70, 70);
+     height: 200px;
+}
+.caja4{
+     background-color:
+     rgb(93, 0, 255);
+     height: 200px;
+    
+}
+.caja5{
+    background-color:
+     rgb(206, 185, 226);
+     height: 300px;
+}
+.caja6{
+     background-color:
+     rgb(13, 147, 147);
+     height: 250px;
+}
+.caja7 {
+     background-color: rgb(117, 117, 169);
+     height: 250px;
+}
+.caja8{
+     background-color: rgb(197, 77, 77);
+      height: 250px;
+ }
+ .caja9{
+      background-color:
+      rgb(116, 28, 97);
+      height: 250px;
+ }
+ .caja10{
+     background-color:
+      rgb(206, 168, 17);
+      height: 250px;
+ }
+ .caja11{
+      background-color:
+      rgb(120, 173, 173);
+      height: 250px;
+     
+ }
+ .caja12{
+     background-color:
+      rgb(51, 153, 131);
+      height: 250px;
+ }
+ .caja13{
+      background-color:
+      rgb(161, 200, 200);
+      height: 250px;
+ }
+ .caja14 {
+      background-color: rgb(79, 79, 164);
+      height: 250px;
+ }
+ .caja15{
+     background-color:
+     rgb(145, 6, 92);
+     height: 250px;
+}
+.caja16 {
+     background-color: rgb(0, 255, 13);
+     height: 250px;
+}
+.caja17{
+     background-color: rgb(32, 49, 11);
+      height: 250px;
+ }
+ .caja18{
+      background-color:
+      rgb(173, 70, 10);
+      height: 250px;
+ }
+ .caja19{
+     background-color:
+      rgb(24, 16, 16);
+      height: 250px;
+ }
+ .caja20{
+      background-color:
+      rgb(251, 251, 251);
+      height: 300px;
+     
+ }
+ .caja21{
+     background-color:
+      rgb(0, 0, 0);
+      height: 300px;
+ }
+ 
